@@ -10,3 +10,5 @@ github_username:  Izoslav
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-midnight
